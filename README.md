@@ -6,8 +6,8 @@ The main aim of this project is to use Genetic Algorithms to train agents on som
 <hr>
 
 ``` console
-git line
-cd folder
+git clone https://github.com/AmoghRaut/Neuroevolution
+cd Neuroevoultion
 pip3 install -r requirements.txt
 ```
 
